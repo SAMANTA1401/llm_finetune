@@ -1,0 +1,11 @@
+[
+  {
+    "text": "<s>[INST] What is the capital of France? [/INST] The capital of France is Paris.</s>"
+  },
+  {
+    "text": "<s>[INST] Explain Newton's first law of motion. [/INST] Newton's first law states that an object will remain at rest or in uniform motion unless acted upon by an external force.</s>"
+  },
+  {
+    "text": "<s>[INST] Write a Python function to compute the factorial of a number. [/INST] Sure! Here's the function:\n```python\ndef factorial(n):\n    return 1 if n == 0 else n * factorial(n - 1)\n```</s>"
+  }
+]
